@@ -5,6 +5,8 @@
 
 
 ## Information
+This bot is still in beta!
+
 Original base by 
 [`BochilGaming`](https://github.com/BochilGaming/games-wabot-md)
 [`Azami Bot`](https://github.com/clicknetcafe/azamibot-md-multi)
