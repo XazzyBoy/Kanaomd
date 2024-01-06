@@ -34,7 +34,7 @@ export default handler
 
 async function otakudesu(judul) { 
          return new Promise(async (resolve, reject) => { 
-                 axios.get('https://otakudesu.watch/?s=' + judul + '&post_type=anime') 
+                 axios.get('https://otakudesu.cam/?s=' + judul + '&post_type=anime') 
                          .then(({ 
                                  data 
                          }) => { 
